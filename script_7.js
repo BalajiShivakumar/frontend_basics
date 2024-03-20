@@ -35,7 +35,7 @@ const person2 = {};
   }
 
 
-console.log(myObj.cars[1]);
+console.log(myObj.cars);
 
 const person3 = {
   firstName: "Manohar",
